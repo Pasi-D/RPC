@@ -1,0 +1,1 @@
+## Simple functions invoked by RPC(Remote Procedure Call) on Client Server Architecture using C language and RPCBIND
